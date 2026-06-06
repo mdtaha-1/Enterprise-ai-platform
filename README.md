@@ -12,6 +12,37 @@ Most companies want internal AI tools — document search, intelligent assistant
 
 ---
 
+## Screenshots
+
+### LLM Chat
+
+![LLM Chat](docs/screenshots/llm-chat.png)
+
+Interactive chat interface powered by Groq-hosted Llama 3.3 models.
+
+---
+
+### RAG Pipeline
+
+![RAG Pipeline](docs/screenshots/rag-pipeline.png)
+
+Upload PDFs, generate embeddings, and perform context-aware retrieval using ChromaDB.
+
+---
+
+### AI Agent
+
+![AI Agent](docs/screenshots/agent-workflow.png)
+
+LangGraph-powered ReAct agent capable of combining document retrieval, calculations, and reasoning workflows.
+
+---
+
+### API Documentation
+
+![Swagger API](docs/screenshots/swagger-api.png)
+
+Interactive OpenAPI documentation generated automatically by FastAPI.
 ## Architecture
 
 ```
